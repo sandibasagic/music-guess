@@ -27,7 +27,11 @@ Can you guess is a fun online guess game where users can test their knowledge in
 - As a user, I want to restart the game at the end
 
 # Features 
-
+- The user gets instructions before game starts 
+- The user can play a game using input field and send letter they think are part of the word
+- The user gets feedback on whenever they guessed the right word or not
+- The user gets displayed the remaining lives or tries they have left in the game
+- At the end, the user can have option on playing a game from the beginning
 ## Features to be implemented 
 
 ## Technologies Used
