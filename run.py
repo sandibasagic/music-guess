@@ -54,6 +54,7 @@ def play(word):
     else:
         print("Sorry, you ran out of tries. The word was " + word + ". Maybe next time!")
 
+
 def main():
     word = get_word()
     play(word)
