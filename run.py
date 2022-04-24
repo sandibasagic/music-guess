@@ -63,6 +63,9 @@ def play(word):
 
 
 def main():
+    '''
+    Function if the user wants to play the game again.
+    '''
     word = get_word()
     play(word)
     while input("Play Again? (Y/N) ").upper() == "Y":
