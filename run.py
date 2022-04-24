@@ -8,6 +8,9 @@ from words import word_list
 
 
 def get_word():
+    '''
+    Function used to get words from random words list.
+    '''
     word = random.choice(word_list)
     return word.upper()
 
