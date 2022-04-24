@@ -29,3 +29,7 @@ Can you guess is a fun online guess game where users can test their knowledge in
 # Features 
 
 ## Features to be implemented 
+
+## Technologies Used
+### Main Languages Used
+- [Python](https://en.wikipedia.org/wiki/Python_(programming_language) "Link to Python Wiki")
