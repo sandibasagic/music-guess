@@ -52,10 +52,29 @@ When users run the program, they are asked to guees a letter or a word in a list
 # Testing
 ### Code Validation
 The [PEP8 Online Checker](https://pep8online.com/) service was used to validate the code written in the word_list.py and run.py files.
+
+### Results 
+![Test](readme-images/testing.png "Test Results")
 ## Manual Testing
+### Common Elements Testing
+Manual testing was conducted on the following elements that appear in the program:
 
+Word List - was checked that contains only musical instruments
+
+Input by the user - was checked that user can send only letters and the lenght is not greater than the word
+
+Right Guess - was checked that when user submit the right guess, the print statement let them know that they guessed the right letter or word. The right letter is the displayed in the secred word.
+
+Wrong Guess - was checked that when user submti the wrong guess, the print statement let them know that they submitted the wrong guess. After wrong guess, the user lives are decrement by one.
+
+Win Game - was checked when user guess the right word, the program lets them know that they win the game and prints win statement. 
+
+End Game - was checked when user lost all of the lives that the game stops.
+
+Play Again - was check at the end of the game that users can play the game again if they wish. 
 ## Unfixed Bugs
-
+When testing with [PEP8 Online Checker](https://pep8online.com/), all of the bugs were fixed except one which is documented below.
+![Unfixed Bug](readme-images/unfixed-bugs.png "Unfixed Bug")
 # Deployment
 
 Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
