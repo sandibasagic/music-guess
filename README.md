@@ -13,7 +13,7 @@ Can you guess is a fun online guess game where users can test their knowledge in
     * [Deployment](#deployment)
     * [Credits](#credits)
 # How to play
-
+When users run the program, they are asked to guees a letter or a word in a list of secret musical instruments. They start the game when typing the letter into input. They confirm the input by pressing "Enter". If they guessed the right letter, the program lets them know that the guessed the right letter. IF the user make wrong guess, the program lets them know that they did not guess the right letter and their lives are decreased by one. The total lives the user have is six. After all lives are used, the game ends and the user is asked if they want to play again. They can do that by entering Y letter into input terminal. If the user guess the right word within the six lives they have, then they win the game!
 # UX
 
 ## User Goals 
