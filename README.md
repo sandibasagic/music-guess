@@ -20,3 +20,8 @@ Can you guess is a fun online guess game where users can test their knowledge in
 - Easy to use
 - Clear instructions provided
 - Contains only musical instruments
+
+## User Stories
+- As a user, I want game to be easy to use
+- As a user, I want game to include only musical instruments
+- As a user, I want to restart the game at the end
