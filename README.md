@@ -27,3 +27,5 @@ Can you guess is a fun online guess game where users can test their knowledge in
 - As a user, I want to restart the game at the end
 
 # Features 
+
+## Features to be implemented 
