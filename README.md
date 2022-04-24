@@ -33,3 +33,9 @@ Can you guess is a fun online guess game where users can test their knowledge in
 ## Technologies Used
 ### Main Languages Used
 - [Python](https://en.wikipedia.org/wiki/Python_(programming_language) "Link to Python Wiki")
+
+## Tools
+* [Gitpod](https://www.gitpod.io/ "Gitpod")
+* [Pep8Online](https://pep8online.com/ "pep8online")
+* [Responsive Design](http://ami.responsivedesign.is/ "Am I Responsive")
+* [Heroku](https://www.heroku.com "Heroku")
