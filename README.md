@@ -28,6 +28,7 @@ When users run the program, they are asked to guees a letter or a word in a list
 
 # Features 
 - The user gets instructions before game starts 
+### ![Start Game](readme-images/start-game.png "Start Game")
 - The user can play a game using input field and send letter they think are part of the word
 - The user gets feedback on whenever they guessed the right word or not
 - The user gets displayed the remaining lives or tries they have left in the game
