@@ -1,4 +1,4 @@
-''' 
+'''
 This is a submission project for Portfolio Project 3. 
 It's a guess game where users can guess a secret word.
 The game has secret words of musical instruments
@@ -78,4 +78,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
