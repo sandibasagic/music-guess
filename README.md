@@ -50,7 +50,8 @@ When users run the program, they are asked to guees a letter or a word in a list
 * [Heroku](https://www.heroku.com "Heroku")
 
 # Testing
-
+### Code Validation
+The [PEP8 Online Checker](https://pep8online.com/) service was used to validate the code written in the word_list.py and run.py files.
 ## Manual Testing
 
 ## Unfixed Bugs
