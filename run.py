@@ -52,7 +52,7 @@ def play(word):
     if guessed:
         print("Congrats, you guessed the word! You win!")
     else:
-        print("Sorry, you ran out of tries. The word was " + word +)
+        print("Sorry, you ran out of tries. The word was " + word)
 
 
 def main():
