@@ -50,6 +50,8 @@ Can you guess is a fun online guess game where users can test their knowledge in
 
 ## Manual Testing
 
+## Unfixed Bugs
+
 # Deployment
 
 Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
