@@ -6,4 +6,7 @@ Can you guess is a fun online guess game where users can test their knowledge in
     * [User Goals](#user-goals "User Goals")
     * [User Stories](#user-stories "User Stories")
     * [Features](#features "Features") 
-    * [Features to be implemented](#features-to-be-implemented)
+    * [Features to be implemented](#features-to-be-implemented "Features to be implemented") 
+    * [Technologies used](#technologies-used)
+    * [Testing](#testing)
+    * [Unfixed Bugs](#unfixed-bugs)
