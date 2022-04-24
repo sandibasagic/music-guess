@@ -14,10 +14,11 @@ def get_word():
     word = random.choice(word_list)
     return word.upper()
 
-'''
-The list of variables used in game and the main function to run the game
-'''
+
 def play(word):
+    '''
+    The list of variables used in game and the main function to run the game
+    '''
     word_completion = "_" * len(word)
     guessed = False
     guessed_letters = []
