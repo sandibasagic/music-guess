@@ -33,7 +33,9 @@ Can you guess is a fun online guess game where users can test their knowledge in
 - The user gets displayed the remaining lives or tries they have left in the game
 - At the end, the user can have option on playing a game from the beginning
 ## Features to be implemented 
-
+- The user could have displayed the visual part of the game
+- The user could have options on selecting the game to be in categories of easy - medium - hard
+- The game coould include sounds 
 ## Technologies Used
 ### Main Languages Used
 - [Python](https://en.wikipedia.org/wiki/Python_(programming_language) "Link to Python Wiki")
