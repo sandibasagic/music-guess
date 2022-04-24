@@ -13,3 +13,10 @@ Can you guess is a fun online guess game where users can test their knowledge in
     * [Deployment](#deployment)
     * [Credits](#credits)
 # How to play
+
+# UX
+
+## User Goals 
+- Easy to use
+- Clear instructions provided
+- Contains only musical instruments
