@@ -34,6 +34,7 @@ When users run the program, they are asked to guees a letter or a word in a list
 ### ![Right Word](readme-images/right-word "Right Word")
 - The user gets displayed the remaining lives or tries they have left in the game
 - At the end, the user can have option on playing a game from the beginning
+### ![Play Again](readme-images/end-game.png "Play Again")
 ## Features to be implemented 
 - The user could have displayed the visual part of the game
 - The user could have options on selecting the game to be in categories of easy - medium - hard
