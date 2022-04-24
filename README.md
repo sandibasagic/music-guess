@@ -10,3 +10,5 @@ Can you guess is a fun online guess game where users can test their knowledge in
     * [Technologies used](#technologies-used)
     * [Testing](#testing)
     * [Unfixed Bugs](#unfixed-bugs)
+    * [Deployment](#deployment)
+    * [Credits](#credits)
