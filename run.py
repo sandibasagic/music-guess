@@ -75,6 +75,9 @@ def main():
     while input("Play Again? (Y/N) ").upper() == "Y":
         word = get_word()
         play(word)
+    else:
+        print("Thank you for playing Can You Guess?")
+            
 
 if __name__ == "__main__":
     main()
