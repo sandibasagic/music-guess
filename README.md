@@ -31,7 +31,7 @@ When users run the program, they are asked to guees a letter or a word in a list
 ### ![Start Game](readme-images/start-game.png "Start Game")
 - The user can play a game using input field and send letter they think are part of the word
 - The user gets feedback on whenever they guessed the right word or not
-### ![Right Word](readme-images/right-word "Right Word")
+### ![Right Word](readme-images/right-word.png "Right Word")
 - The user gets displayed the remaining lives or tries they have left in the game
 - At the end, the user can have option on playing a game from the beginning
 ### ![Play Again](readme-images/end-game.png "Play Again")
