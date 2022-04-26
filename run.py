@@ -77,7 +77,7 @@ def main():
         play(word)
     else:
         print("Thank you for playing Can You Guess?")
-            
-
+            break
+        
 if __name__ == "__main__":
     main()
