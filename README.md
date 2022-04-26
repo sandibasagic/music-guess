@@ -38,7 +38,6 @@ When users run the program, they are asked to guees a letter or a word in a list
 ## Features to be implemented 
 - The user could have displayed the visual part of the game
 - The user could have options on selecting the game to be in categories of easy - medium - hard
-- The game could include sounds 
 ## Technologies Used
 ### Main Languages Used
 - [Python](https://en.wikipedia.org/wiki/Python_(programming_language) "Link to Python Wiki")
