@@ -1,24 +1,23 @@
-'''
-This is a submission project for Portfolio Project 3.
+"""
 It's a guess game where users can guess a secret word.
 The game has secret words of musical instruments
-'''
+"""
 import random
 from words import word_list
 
 
 def get_word():
-    '''
+    """
     Function used to get words from random words list.
-    '''
+    """
     word = random.choice(word_list)
     return word.upper()
 
 
 def play(word):
-    '''
+    """
     The list of variables used in game and the main function to run the game
-    '''
+    """
     word_completion = "_" * len(word)
     guessed = False
     guessed_letters = []
@@ -40,8 +39,8 @@ def play(word):
                 print("Great!,", guess, "is in the word!")
                 guessed_letters.append(guess)
                 word_as_list = list(word_completion)
-                indices = [i for i, letter in enumerate(word) if letter == guess]
-                for index in indices:
+                sign = [i for i, letter in enumerate(word) if letter == guess]
+                for index in sign:
                     word_as_list[index] = guess
                 word_completion = "".join(word_as_list)
                 if "_" not in word_completion:
@@ -67,17 +66,16 @@ def play(word):
 
 
 def main():
-    '''
+    """
     Function if the user wants to play the game again.
-    '''
+    """
     word = get_word()
     play(word)
     while input("Play Again? (Y/N) ").upper() == "Y":
         word = get_word()
         play(word)
-    else:
-        print("Thank you for playing Can You Guess?")
-        break
+    print("Thank you for playing Can You Guess?")
+
 
 if __name__ == "__main__":
     main()
