@@ -1,3 +1,6 @@
+"""
+List of words for Can You Guess?
+"""
 word_list = [
     'drums',
     'piano',
@@ -17,4 +20,5 @@ word_list = [
     'harp',
     'saxophone',
     'tambourine',
-    'trumpet']
+    'trumpet'
+]
