@@ -72,25 +72,22 @@ Win Game - was checked when user guess the right word, the program lets them kno
 End Game - was checked when user lost all of the lives that the game stops.
 
 Play Again - was check at the end of the game that users can play the game again if they wish. 
-## Unfixed Bugs
-When testing with [PEP8 Online Checker](https://pep8online.com/), all of the bugs were fixed except one which is documented below.
-![Unfixed Bug](readme-images/unfixed-bugs.png "Unfixed Bug")
+
 # Deployment
+The project was deployed using Code Institutes mock terminal for Heroku. 
 
-Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+* Steps to deploy:
+  * Fork or clone this repository.
+  * Create a new app in [Heroku](https://dashboard.heroku.com/apps).
+  * Select "New" and "Create new app".
+  * Name the new app and click "Create new app".
+  * In "Settings" select "BuildPack" and select Python and Node.js. (Python must be at the top of the list).
+  * Whilst still in "Settings", click "Reveal Config Vars" and input the folloing. KEY: PORT, VALUE: 8000. Nothing else is needed here as this project does not have any sensitive files.
+  * Click on "Deploy" and select your deploy method and repository.
+  * Click "Connect" on selected repository. 
+  * Either choose "Enable Automatic Deploys" or "Deploy Branch" in the manual deploy section. 
+  * Heroku will now deploy the site.
 
-+ Navigate to the repository on github and click 'Settings'.
-+ Then select 'Pages' on the side navigation.
-+ Select the 'None' dropdown, and then click 'master'.
-+ Click on the 'Save' button.
-+ Now the website is now live on https://sandibasagic.github.io/dream-day/
-+ If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
-
-\
-&nbsp;
-[Back to Top](#table-of-contents)
-\
-&nbsp;
 
 # Acknowledgements
 
